@@ -1,8 +1,13 @@
 # SmartTraffic-CO
 
-Educational smart traffic simulation that demonstrates **Computer Organization**
-concepts: CPU, registers, ALU, fetch-decode-execute, RAM, cache, buses, I/O and
-interrupts. The traffic light decision is *computed by a virtual CPU*, not faked.
+Smart Traffic Intersection Simulator (Computer Organization & Architecture Demo)smarttraffic-co is an interactive 2D simulation that visualizes fundamental Computer Organization & Architecture (COA) concepts using a smart four-way traffic intersection setup.   
+
+Key Features:
+1.CPU & Instruction Cycle: Simulates fetch-decode-execute cycles for controlling traffic signal timings. 
+2.ALU & Registers: Performs arithmetic/logic operations to compute traffic density and queue lengths in real-time. 
+3.Memory Hierarchy: Demonstrates cache vs. RAM storage for active vehicle positions and state memory.  
+4.Interrupt Handling: Simulates emergency vehicle priorities via hardware interrupt requests (IRQ).  
+5.Interactive Dashboard: Visualizes system metrics, clock cycles, and real-time component states alongside the 2D Pygame simulation.
 
 > Simulation only. It does not control real traffic.
 
