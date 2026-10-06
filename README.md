@@ -6,6 +6,7 @@ Key Features:
 
 
 1.CPU & Instruction Cycle: Simulates fetch-decode-execute cycles for controlling traffic signal timings. 
+
 2.ALU & Registers: Performs arithmetic/logic operations to compute traffic density and queue lengths in real-time. 
 3.Memory Hierarchy: Demonstrates cache vs. RAM storage for active vehicle positions and state memory.  
 4.Interrupt Handling: Simulates emergency vehicle priorities via hardware interrupt requests (IRQ).  
